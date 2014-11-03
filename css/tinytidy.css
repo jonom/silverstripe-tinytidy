@@ -1,0 +1,18 @@
+/* Make sure icon for toggled styles isn't hidden */
+
+.defaultSkin .mceNoIcons a .mceText {
+    padding-left: 13px !important;
+}
+
+.defaultSkin .mceNoIcons .mceMenuItemSelected a {
+    background-image: none !important;
+}
+
+.defaultSkin .mceNoIcons .mceMenuItemSelected span.mceText:before {
+    content: "✓ ";
+    float: left;
+    margin-left: -12px;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}

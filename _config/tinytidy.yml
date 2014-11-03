@@ -1,0 +1,8 @@
+---
+Name: tinytidy
+After: 'framework/*','cms/*'
+---
+LeftAndMain:
+  extra_requirements_css: 
+    tinytidy/css/tinytidy.css:
+      media: screen

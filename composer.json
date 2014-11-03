@@ -1,0 +1,17 @@
+{
+	"name": "jonom/silverstripe-tinytidy",
+	"description": "Control which styles are available in TinyMCE's style dropdown menu and what elements they can be applied to",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "TinyMCE", "htmleditor"],
+	"license": "BSD-3-Clause",
+	"authors": [{
+		"name": "Jonathon Menz",
+		"homepage": "http://jonathonmenz.com"
+	}],
+	"require": {
+		"silverstripe/framework": "~3.1"
+	},
+	"extra": {
+		"installer-name": "tinytidy"
+	}
+}
