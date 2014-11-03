@@ -13,7 +13,7 @@ SilverStripe 3~ (tested in 3.1, not sure about 3.0)
 ##Installation
 
 **Composer / Packagist ([best practice](http://doc.silverstripe.org/framework/en/trunk/installation/composer))**  
-Run this command: `composer require jonom/silverstripe-tinytidy *` then run a dev/build?flush=1.
+`cd` to your website's root directory then run this command: `composer require jonom/silverstripe-tinytidy` then run a dev/build?flush=1.
 
 **Manually**  
 Download, place the folder in your project root, rename it to 'tinytidy' (if applicable) and run a dev/build?flush=1.
