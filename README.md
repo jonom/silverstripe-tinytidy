@@ -20,4 +20,4 @@ Download, place the folder in your project root, rename it to 'tinytidy' (if app
 
 ##How to use
 
-Either uncomment and edit tinytidy's \_config.php file, or copy the contents to your mysite/\_config.php and edit as required to suit your needs.
+The tinytidy/\_config.php file contains an example configuration for TinyMCE and comments which explain what various options do. Either uncomment and edit that file directly, or copy the contents to your mysite/\_config.php and edit as required to suit your needs.
